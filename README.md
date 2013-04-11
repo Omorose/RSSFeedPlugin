@@ -13,7 +13,9 @@ In /res/xml/config.xml
 In /src/org/apache/cordova
 Copy paste into package the FetchRssFeed.java file
 
-Depending on the rss feed variable "i" in lines 122-126 may need to be adjusted for the individual feed due to that some tags may be iniated earlier than others
+The rss feed variable "i" in lines 122-126 may need to be adjusted for the individual feed due to that some tags may be iniated earlier than others
+
+See test for reference if needed
 ****************
 
 In /assets/www
